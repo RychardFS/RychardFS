@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**RychardFS/RychardFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there <!--
+**RychardFS/RychardFS** is a ✨ _special_ ✨ repository because its `README.md`  
 
 Here are some ideas to get you started:
 
